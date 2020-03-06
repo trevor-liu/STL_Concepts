@@ -1,0 +1,22 @@
+Name: Trevor Liu
+ID #: 1589202
+CMPUT 275 Winter2020
+
+Weekly Assignment 6: STL Concepts
+
+
+Included Files:
+    * complex_postfix.cpp
+	* student_hash.cpp
+    * Makefile
+    * README
+
+Running Instruction:
+    1. Type in the command line "make" while in the directory of the file
+    2. Type "./student" to run the student_hash.cpp
+    3. Type "./calc" to run the complex_postfix.cpp
+    4. Type "make clean" to remove the object and executable
+
+
+Notes and Assumptions:
+    Extra information regarding instruction for running the program, refer to assignment pdf handout.
